@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BotDemoProject-V4.props" />
+</Project>

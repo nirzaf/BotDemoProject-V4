@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "EsM3e6umeiU1ODFegwkujK0YBdp8qsNoW3NPsgOIq6c=",
+  "Source": "BotDemoProject-V4",
+  "BasePath": "_content/BotDemoProject-V4",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BotDemoProject-V4\\wwwroot",
+      "Source": "BotDemoProject-V4",
+      "ContentRoot": "C:\\Users\\mmfazrin\\source\\BotDemoProject-V4\\wwwroot\\",
+      "BasePath": "_content/BotDemoProject-V4",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\mmfazrin\\source\\BotDemoProject-V4\\wwwroot\\default.htm",
+      "SourceId": "BotDemoProject-V4",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\mmfazrin\\source\\BotDemoProject-V4\\wwwroot\\",
+      "BasePath": "_content/BotDemoProject-V4",
+      "RelativePath": "default.htm",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.htm"
+    }
+  ]
+}
